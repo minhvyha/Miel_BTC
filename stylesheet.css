@@ -1,0 +1,48 @@
+body{
+    background-color:#937666;
+    font-family:monospace;
+    color: #E3DFFF;
+}
+
+h1 {
+    text-align: center;
+}
+#p1{
+    margin: 30px;
+    padding: 30px;
+    text-align: justify;
+    background-color: #6e5749;
+    color: #E3DFFF;
+    border-radius: 5px;
+}
+
+
+
+
+
+#img1{
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+input{
+    color: green;
+}
+
+
+#tbl1{
+    background-color: #6e5749;
+}
+
+#tbl3{
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+
+#a1{
+    color: #E3DFFF;
+}
